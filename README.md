@@ -5,7 +5,7 @@ This project showcases a bold industrial UI design, strong typography, and a uni
 
 brutalism.vercel.app
 Live Demo
-🔗 https://v0-kishore-p-iron-district-brutalist-cros.vercel.app/⁠�
+🔗 https://kishore-p-iron-district-brutalist-cros.vercel.app/
 
 Project Overview
 Iron District is a visually striking web interface designed with a neo-brutalist design philosophy.
