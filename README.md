@@ -21,6 +21,7 @@ The website uses a high contrast layout, strong borders, geometric structure, an
 brutalism.vercel.app
 
 Features
+
 ⚡ Modern brutalist UI design
 📱 Fully responsive layout
 🎨 Strong typography and bold visual hierarchy
@@ -32,16 +33,19 @@ Features
 Tech Stack
 
 Frontend
+
 HTML5
 CSS3
 JavaScript
 Tailwind CSS
 
 Framework / Tools
+
 React / Next.js
 V0 AI UI generation
 Git & GitHub
 
 Deployment
+
 Vercel Cloud Platform
 Vercel provides optimized hosting infrastructure that enables fast global deployment for modern web app
