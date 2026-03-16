@@ -17,8 +17,7 @@ Brutalist web design concepts
 Responsive web layouts
 Interactive animations
 Clean component-based frontend architecture
-The website uses a high contrast layout, strong borders, geometric structure, and bold typography, which are key elements of brutalist digital design. �
-brutalism.vercel.app
+The website uses a high contrast layout, strong borders, geometric structure, and bold typography, which are key elements of brutalist digital design.
 
 Features
 
