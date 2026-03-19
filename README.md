@@ -15,7 +15,6 @@ The goal of this project is to demonstrate:
 Modern UI/UX design principles
 Brutalist web design concepts
 Responsive web layouts
-Interactive animations
 Clean component-based frontend architecture
 The website uses a high contrast layout, strong borders, geometric structure, and bold typography
 Features
