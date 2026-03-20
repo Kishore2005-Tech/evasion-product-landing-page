@@ -1,7 +1,7 @@
 Iron District – Brutalist Web Experience
 A modern brutalist-style interactive website built with modern web technologies and deployed on Vercel.
 
-This project showcases a bold industrial UI design, strong typography, and a unique digital experience inspired by brutalist architecture aesthetics. �
+This project showcases a bold industrial UI design, strong typography,inspired by brutalist architecture aesthetics. �
 
 brutalism.vercel.app
 Live Demo
