@@ -16,7 +16,7 @@ Modern UI/UX design principles
 Brutalist web design concepts
 Responsive web layouts
 Clean component-based frontend architecture
-The website uses a high contrast layout, strong borders, geometric structure, and bold typography
+The website uses a high contrast layout, strong borders, geometric structure
 Features
 
 ⚡ Modern brutalist UI design
