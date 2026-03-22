@@ -3,7 +3,6 @@ A modern brutalist-style interactive website built with modern web technologies 
 
 This project showcases a bold industrial UI design, strong typography,inspired by brutalist architecture aesthetics. �
 
-brutalism.vercel.app
 Live Demo
 🔗 https://kishore-p-iron-district-brutalist-cros.vercel.app/
 
