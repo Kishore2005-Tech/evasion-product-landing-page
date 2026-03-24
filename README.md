@@ -22,7 +22,7 @@ Features
 📱 Fully responsive layout
 🎨 Strong typography and bold visual hierarchy
 🧱 Industrial themed components
-🚀 Fast deployment and hosting
+
 🖱 Smooth interactive elements
 🌐 Optimized for modern browsers
 
