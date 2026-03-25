@@ -22,7 +22,6 @@ Features
 📱 Fully responsive layout
 🎨 Strong typography and bold visual hierarchy
 🧱 Industrial themed components
-
 🖱 Smooth interactive elements
 🌐 Optimized for modern browsers
 
@@ -37,7 +36,7 @@ Tailwind CSS
 
 Framework / Tools
 
-React / Next.js
+Next.js
 V0 AI UI generation
 Git & GitHub
 
