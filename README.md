@@ -7,7 +7,7 @@ Live Demo
 🔗 https://kishore-p-iron-district-brutalist-cros.vercel.app/
 
 Project Overview
-Iron District is a visually striking web interface designed with a neo-brutalist design philosophy.
+Iron District is a visually striking web interface designed with a brutalist design philosophy.
 
 The goal of this project is to demonstrate:
 
