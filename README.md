@@ -34,7 +34,7 @@ CSS3
 JavaScript
 Tailwind CSS
 
-Framework / Tools
+Frameworks 
 
 Next.js
 V0 AI UI generation
