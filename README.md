@@ -36,7 +36,7 @@ Footer
 
 🛠️ Tech Stack
 
-⚛️ React / Next.js (Generated UI)
+   Next.js (Generated UI)
 🎨 Tailwind CSS
 🧱 shadcn/ui components
 🤖 AI UI Generation (v0)
