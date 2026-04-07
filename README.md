@@ -4,7 +4,7 @@ A premium, modern single-product ecommerce website UI designed for high conversi
 
 🔗 Live Demo: https://v0-evasion-website.vercel.app/
 
-✨ Overview
+Overview
 
 Evasion is a sleek, minimal, and visually engaging ecommerce UI built for showcasing a single premium product (bottle) with a strong focus on:
 
