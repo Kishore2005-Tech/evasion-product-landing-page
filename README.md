@@ -21,7 +21,6 @@ This project is inspired by high-end D2C brands and built using AI-assisted UI g
 🎨 Clean & Minimal Design
 ⚡ Smooth Animations & Transitions
 📱 Fully Responsive Layout
-🛍️ Conversion-Optimized Sections
 🧠 AI-Generated UI Structure
 🚀 Fast Deployment with Vercel
 
