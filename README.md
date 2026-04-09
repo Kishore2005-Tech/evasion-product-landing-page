@@ -30,12 +30,12 @@ Hero Section (Product Highlight)
 Features / Benefits Section
 Product Showcase
 Testimonials / Social Proof
-Pricing / Call-to-Action
+Pricing / 
 Footer
 
 🛠️ Tech Stack
 
-   Next.js (Generated UI)
+⚛️ React.js (Generated UI)
 🎨 Tailwind CSS
 🧱 shadcn/ui components
 🤖 AI UI Generation (v0)
