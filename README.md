@@ -13,7 +13,7 @@ Clean product storytelling
 Smooth animations & interactions
 Modern UI/UX practices
 
-This project is inspired by high-end D2C brands and built using AI-assisted UI generation tools like v0 by Vercel, which can generate production-ready React interfaces from prompts.
+This project is inspired by high-end D2C brands and built using AI-assisted UI generation tools like v0 by Vercel, which can generate production-ready React interfaces.
 
 🎯 Features
 
