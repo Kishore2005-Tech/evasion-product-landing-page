@@ -30,7 +30,7 @@ Hero Section (Product Highlight)
 Features / Benefits Section
 Product Showcase
 Testimonials / Social Proof
-Pricing / 
+Pricing
 Footer
 
 🛠️ Tech Stack
