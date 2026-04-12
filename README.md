@@ -38,7 +38,7 @@ Footer
 ⚛️ React.js (Generated UI)
 🎨 Tailwind CSS
 🧱 shadcn/ui components
-🤖 AI UI Generation (v0)
+🤖 AI UI Generation
 ☁️ Vercel Deployment
 
 ⚡ How It Works
