@@ -53,7 +53,7 @@ These tools significantly reduce development time by generating ready-to-use fro
 
 📸 Preview
 
-(Add screenshots here for best impact)
+(Add screenshots here for best)
 
 📂 Project Structure
 /components
