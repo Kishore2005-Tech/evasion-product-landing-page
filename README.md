@@ -51,9 +51,6 @@ Deploy instantly to production
 
 These tools significantly reduce development time by generating ready-to-use frontend code .
 
-📸 Preview
-
-(Add screenshots here for best)
 
 📂 Project Structure
 /components
