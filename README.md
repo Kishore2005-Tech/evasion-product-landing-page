@@ -10,7 +10,7 @@ Evasion is a sleek, minimal, and visually engaging ecommerce UI built for showca
 
 Conversion-driven design
 Clean product storytelling
-Smooth animations & interactions
+Smooth animations
 Modern UI/UX practices
 
 This project is inspired by high-end D2C brands and built using AI-assisted UI generation tools by Vercel, which can generate production-ready React interfaces.
