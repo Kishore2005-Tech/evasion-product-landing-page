@@ -77,7 +77,7 @@ Portfolio Project (UI/UX + Frontend)
 Designed with real-world ecommerce UX principles
 Focused on conversion + branding
 Built using AI + modern frontend stack
-Perfect for portfolio & job-ready projects
+Perfect for job-ready projects
 
 🧑‍💻 Author
 
