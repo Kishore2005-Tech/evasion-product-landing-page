@@ -6,7 +6,7 @@ A premium, modern single-product ecommerce website UI designed for high conversi
 
 Overview
 
-Evasion is a sleek, minimal, and visually engaging ecommerce UI built for showcasing a single premium product (bottle) with a strong focus on
+Evasion is a minimal, and visually engaging ecommerce UI built for showcasing a single premium product (bottle) with a strong focus on
 
 Conversion driven design
 Clean product storytelling
