@@ -1,6 +1,6 @@
 🚀 Evasion – Single Product Ecommerce UI
 
-A premium, modern single-product ecommerce website UI designed for high conversion and brand storytelling.
+A premium, modern single-product ecommerce website UI designed for high conversion, brand storytelling.
 
 🔗 Live Demo: https://v0-evasion-website.vercel.app/
 
