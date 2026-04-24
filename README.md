@@ -24,7 +24,7 @@ This project is inspired by high-end D2C brands and built using UI generation to
 🧠 AI-Generated UI Structure
 🚀 Fast Deployment with Vercel
 
-🧩 Sections Included
+Sections Included
 
 Hero Section (Product Highlight)
 Features / Benefits Section
