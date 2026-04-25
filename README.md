@@ -29,7 +29,7 @@ Sections Included
 Hero Section (Product Highlight)
 Features / Benefits Section
 Product Showcase
-Testimonials / Social Proof
+Testimonials and Social Proof
 Pricing
 Footer
 
