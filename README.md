@@ -46,7 +46,7 @@ Footer
 This UI was generated using AI-powered frontend tools that convert text prompts into real UI code.
 
 Describe UI → Generate layout
-Customize design → Refine components
+Customize design in Refine components
 Deploy instantly to production
 
 These tools significantly reduce development time by generating ready-to-use frontend code .
