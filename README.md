@@ -22,7 +22,7 @@ This project is inspired by high-end D2C brands and built using UI generation to
 ⚡ Smooth Animations
 📱 Fully Responsive Layout
 🧠 AI-Generated UI Structure
-🚀 Fast Deployment with Vercel
+🚀 Fast Deployment by Vercel
 
 Sections Included
 
