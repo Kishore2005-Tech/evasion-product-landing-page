@@ -27,7 +27,7 @@ This project is inspired by high-end D2C brands and built using UI generation to
 Sections Included
 
 Hero Section (Product Highlight)
-Features / Benefits Section
+Features and Benefits Section
 Product Showcase
 Testimonials and Social Proof
 Pricing
