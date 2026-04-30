@@ -35,14 +35,16 @@ Kisan Mitra AI is an AI-powered agriculture platform designed to assist farmers 
 
 ⚙️ Installation
 
-git clone https://github.com/your-username/kisan-mitra-ai
-cd kisan-mitra-ai
-pip install -r requirements.txt
-python manage.py runserver
+1.git clone https://github.com/Kishore2005-Tech/kisan-mitra-AI-agriculture-platform.git
+
+2.cd kisan-mitra-ai
+
+3.pip install -r requirements.txt
+4.python manage.py runserver
 
 🔗 API Example
 
-POST /predict
+POST / Predict 
 
 🏆 Achievements
 
