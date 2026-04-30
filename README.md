@@ -17,6 +17,7 @@ Plant disease detection
 Weather-based suggestions
 Smart farming insights
 Easy-to-use farmer-friendly interface
+
 🎯 Objectives
 
 Provide real-time farming assistance
@@ -32,19 +33,23 @@ HTML
 CSS
 JavaScript
 Typescript
+
 Backend
 
 Node.js
 express.js
+
 AI / ML
 
 Scikit-learn
 TensorFlow / Keras
+
 Tools
 
 Git & GitHub
 Figma (UI Design)
 Google Colab (Model Training)
+
 ✨ Key Features
 
 🌱 Crop Recommendation System
@@ -54,20 +59,24 @@ Soil type
 Temperature
 Humidity
 Rainfall
+
 🦠 Plant Disease Detection
 
 Upload leaf image
 AI model detects disease
 Suggests preventive measures
+
 🌦️ Weather-Based Advisory
 
 Provides farming suggestions based on weather conditions
 Alerts for extreme climate situations
+
 📊 Smart Dashboard
 
 Farmer-friendly interface
 Easy navigation
 Simple language support
+
 🧠 How It Works
 
 User enters soil & environmental data
